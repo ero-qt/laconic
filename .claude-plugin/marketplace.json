@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "laconic",
+  "owner": { "name": "ero-qt", "url": "https://github.com/ero-qt" },
+  "description": "Install Laconic as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "laconic",
+      "source": "./",
+      "description": "Say the thing, then stop. Answer-first replies, plain sentences, and a catalog of the chatbot moves that pad them.",
+      "license": "MIT",
+      "keywords": ["writing", "style", "brevity", "prose", "editing", "sycophancy", "hedging"]
+    }
+  ]
+}

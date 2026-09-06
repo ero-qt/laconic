@@ -1,0 +1,10 @@
+{
+  "name": "laconic",
+  "description": "Say the thing, then stop. Answer-first replies, plain sentences, and a catalog of the chatbot moves that pad them.",
+  "version": "1.0.0",
+  "author": { "name": "ero-qt", "url": "https://github.com/ero-qt" },
+  "homepage": "https://github.com/ero-qt/laconic",
+  "repository": "https://github.com/ero-qt/laconic",
+  "license": "MIT",
+  "keywords": ["writing", "style", "brevity", "prose", "editing", "sycophancy", "hedging"]
+}

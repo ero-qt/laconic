@@ -1,0 +1,8 @@
+{
+  "description": "Always-on laconic mode: injects the style as session context, the same mechanism Anthropic uses for the explanatory style plugin.",
+  "hooks": {
+    "SessionStart": [
+      { "hooks": [ { "type": "command", "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks-handlers/session-start.sh\"" } ] }
+    ]
+  }
+}
