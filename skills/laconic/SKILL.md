@@ -53,3 +53,5 @@ Length comes off by cutting whole sentences. Articles and grammar stay.
 4. Cut every sentence after the action that is not a flip condition.
 
 Once invoked, this holds for the rest of the session. "stop" or "normal replies" ends it.
+
+Before and after pairs for each tell are in [patterns.md](patterns.md).

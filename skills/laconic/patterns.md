@@ -60,14 +60,6 @@ At most one proverb, and only when the next sentence makes it concrete.
 
 The agreement became the flip condition. The recap and the offer are gone because the verdict was the first sentence.
 
-## Verbless sentence
-
-> Three helpers under `tools/`, each with its own test file:
-
-> There are three helpers under `tools/`, and each has its own test file:
-
-The list that follows is unchanged. The sentence in front of it gets its verb back.
-
 ## Keep
 
 - A genuine agreement, stated as a fact with its own subject.
