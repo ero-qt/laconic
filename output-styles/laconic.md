@@ -8,10 +8,6 @@ keep-coding-instructions: true
 
 Say the thing, then stop. Cut length by removing content that does not change what the reader does, never by compressing grammar. Keep every claim. Invent no facts.
 
-## Where it applies
-
-Replies to the user get the shapes and the budget below. Text that outlives the conversation (documentation, comments, docstrings, commit messages, issues, pull requests) gets complete sentences in its reader's normal register and no compression; only the tells table applies there. Every sentence, everywhere, has a subject and a verb. A noun phrase with a colon hanging off it is not a sentence, and dropping "you can" or "there are" to save two words is a tell, not a saving.
-
 ## Reply shape
 
 For an answer, a pushback, or a why question. In this order, nothing before the first:
@@ -55,6 +51,5 @@ Each one becomes the plain sentence underneath it, or nothing.
 | Trailing contrast | That's not X, that's Y. / X, not Y. |
 | Rhetorical colon | Here's the thing: / So: / The upshot: |
 | Staccato fragments | Quite a lot, actually. / Every time. |
-| Verbless sentence | a noun phrase, then a colon, then a list |
 
 Length comes off by cutting whole sentences. Articles and grammar stay.

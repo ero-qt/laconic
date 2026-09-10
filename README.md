@@ -45,7 +45,11 @@ Roughly half the length, with the claims kept.
 /plugin install laconic@laconic
 ```
 
-Or drop `skills/laconic/` into `~/.claude/skills/`.
+Installing the plugin turns Laconic on for every session through a SessionStart hook, the same mechanism Anthropic uses for its explanatory style. The skill is still there for rewriting text on demand.
+
+Without the plugin: drop `skills/laconic/` into `~/.claude/skills/` for the on-demand skill, or `output-styles/laconic.md` into `~/.claude/output-styles/` and pick it in `/config` for always-on. Use one of the two, not both, or the text lands in context twice.
+
+Once the skill is invoked it holds for the rest of the session. Say "stop" or "normal replies" to end it.
 
 ## Credits
 
