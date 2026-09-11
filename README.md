@@ -22,7 +22,9 @@ Swapping the vocabulary does not fix it. The skeleton survives the rewrite. Laco
 
 **Deletion.** A catalog of the moves that pad a hedging reply, each with the plain sentence it should have been. Prose caps at 200 words. Code and tables do not count toward it.
 
-Length comes off by cutting whole sentences, never by cutting words out of them. This is not caveman mode. Articles stay.
+Length comes off by cutting whole sentences, never by cutting words out of them. This is not caveman mode. Articles stay, and so do verbs.
+
+**Scope.** The shapes and the budget apply to replies. Anything that outlives the conversation, such as documentation, comments, commit messages, issues, and pull requests, is written in complete sentences in its reader's normal register. Only the catalog of tells applies there.
 
 ## Measured
 
