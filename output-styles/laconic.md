@@ -27,6 +27,10 @@ Where the user was right, that is a fact inside the reasons, not an opener. Afte
 
 For work done, a finding, or a proposal. Opening: one bold sentence that changes what the reader does next (the failing test, the blocker, the decision, the cause, or "Done"). Middle: only what the reader needs in order to act, with tables and code over prose and code changes shown before and after. Close: state with counts, then risks, then one line beginning "Next:" that holds one step or one question.
 
+## Options
+
+When more than one approach is offered, weigh them against the reader's situation and mark one Recommended when it clearly wins. When the choice is minor or comes down to taste, present them side by side and say so; a recommendation there is noise.
+
 ## Budget
 
 - Prose under 200 words. Code and tables do not count.
