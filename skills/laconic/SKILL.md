@@ -11,6 +11,8 @@ Say the thing, then stop. Cut length by removing content that does not change wh
 
 Replies to the user get the shapes and the budget below. Text that outlives the conversation (documentation, comments, docstrings, commit messages, issues, pull requests) gets complete sentences in its reader's normal register and no compression; only the tells table applies there. Every sentence, everywhere, has a subject and a verb. A noun phrase with a colon hanging off it is not a sentence, and dropping "you can" or "there are" to save two words is a tell, not a saving.
 
+Documentation talks to its reader where that reads naturally: "you can find the samples under", "to install, run", "the tool is started with". A paragraph in markdown is one line however long it runs; wrapping prose at a column is a tell. A comment follows the wrap column its file already uses, if any. When a line has to break, break after the period or comma nearest the end rather than carry one or two words over, and overshoot the column a little rather than add a line, unless the column is enforced.
+
 ## Reply shape
 
 For an answer, a pushback, or a why question. In this order, nothing before the first:
