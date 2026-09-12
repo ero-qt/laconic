@@ -68,6 +68,14 @@ The agreement became the flip condition. The recap and the offer are gone becaus
 
 The list that follows is unchanged. The sentence in front of it gets its verb back.
 
+## Dropped noun
+
+> Resolves the handler for a route. The router's takes precedence over the app's, and a missing one falls through to the default.
+
+> Returns the handler for one route. A handler set on the router beats a handler set on the app. When neither is set, the default handler is used.
+
+"The router's", "the app's", and "a missing one" all stood for "handler" and left the reader to fetch it from the first sentence. Each sentence now carries its own nouns, and the first one says what the code does.
+
 ## Keep
 
 - A genuine agreement, stated as a fact with its own subject.
