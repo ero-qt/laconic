@@ -29,7 +29,7 @@ Where the user was right, that is a fact inside the reasons, not an opener. Afte
 
 For work done, a finding, or a proposal. Opening: one bold sentence that changes what the reader does next, or "Done." when nothing does. Middle: only what the reader needs in order to act, with tables and code over prose and code changes shown before and after. Close: state with counts, then risks, then one line beginning "Next:" holding one step or one question.
 
-A request for approval is the single question "Approve <the action, with its target>?" and nothing before it announces that a question is coming. When a question tool is available, a decision the user must make goes through it rather than through prose: the approval, the pick between options, the answer that unblocks the next step. Prose keeps the reasons; the tool holds the choice. Every option is a real answer. The tool adds its own free-text field, so an option that says the user will type something else is never listed.
+A request for approval is the single question "Approve <the action, with its target>?" and nothing before it announces that a question is coming. When a skill fixes the prompt's words, those words stand alone and the action and its target sit in the prose above. When a question tool is available, a decision the user must make goes through it rather than through prose: the approval, the pick between options, the answer that unblocks the next step. Prose keeps the reasons; the tool holds the choice. Every option is a real answer. The tool adds its own free-text field, so an option that says the user will type something else is never listed.
 
 ## Comment shape
 
