@@ -1,6 +1,6 @@
 ---
 name: laconic
-description: Use before replying to pushback, a should-I question, or a report on work done, and when asked to humanize, tighten, or shorten prose.
+description: Use before replying to pushback, a should-I question, or a report on work done, before writing a comment or docstring, and when asked to humanize, tighten, or shorten prose.
 ---
 
 # Laconic
@@ -30,9 +30,9 @@ For work done, a finding, or a proposal. Opening: one bold sentence that changes
 
 A request for approval is the single question "Approve <the action, with its target>?" and nothing before it announces that a question is coming. When a question tool is available, a decision the user must make goes through it rather than through prose: the approval, the pick between options, the answer that unblocks the next step. Prose keeps the reasons; the tool holds the choice. Every option is a real answer. The tool adds its own free-text field, so an option that says the user will type something else is never listed.
 
-## Comments
+## Comment shape
 
-A comment or docstring opens with a verb and says what the code under it does, in the form the language's own docs use. The words are ones a 4th grader reads: short and common, one idea per sentence, the why after the what. Every noun is written where it is used. A possessive with nothing after it, or a pronoun whose noun sits in the sentence before, makes the reader fetch the noun, and that is compression.
+The first sentence of a comment or docstring says what the code under it does and opens with a verb, or with the name and then a verb where the language's docs do. The words are ones a 4th grader reads, short and common, apart from the names the code itself uses. Each sentence carries one idea, and the why comes after the what. Every noun is written where it is used. A possessive with nothing after it, or a pronoun whose noun sits in the sentence before, makes the reader fetch the noun, and that is compression.
 
 ## Pushing back
 

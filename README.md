@@ -24,7 +24,7 @@ Swapping the vocabulary does not fix it. The skeleton survives the rewrite. Laco
 
 Length comes off by cutting whole sentences, never by cutting words out of them. This is not caveman mode. Articles stay, and so do verbs.
 
-**Scope.** The shapes and the budget apply to replies. Anything that outlives the conversation, such as documentation, comments, commit messages, issues, and pull requests, is written in complete sentences in its reader's normal register. Only the catalog of tells applies there, plus one rule for comments: open with a verb that says what the code under it does, in words a 4th grader reads, with every noun written where it is used.
+**Scope.** The shapes and the budget apply to replies. Anything that outlives the conversation, such as documentation, comments, commit messages, issues, and pull requests, is written in complete sentences in its reader's normal register. Only the catalog of tells and one rule for comments apply there: open with a verb that says what the code under it does, in words a 4th grader reads, with every noun written where it is used.
 
 ## Measured
 

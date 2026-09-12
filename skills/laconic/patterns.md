@@ -72,9 +72,9 @@ The list that follows is unchanged. The sentence in front of it gets its verb ba
 
 > Resolves the handler for a route. The router's takes precedence over the app's, and a missing one falls through to the default.
 
-> Returns the handler for one route. A handler set on the router beats a handler set on the app. When neither is set, the default handler is used.
+> Returns the handler for one route. A handler set on the router beats a handler set on the app. When neither handler is set, the default handler is used.
 
-"The router's", "the app's", and "a missing one" all stood for "handler" and left the reader to fetch it from the first sentence. Each sentence now carries its own nouns, and the first one says what the code does.
+"The router's", "the app's", and "a missing one" all stood for "handler" and left the reader to fetch it from the first sentence. Each sentence now names the handler it means, and the first sentence says what the code returns.
 
 ## Keep
 
