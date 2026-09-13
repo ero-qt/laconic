@@ -75,5 +75,6 @@ Each one becomes the plain sentence underneath it, or nothing.
 | Staccato fragments | Quite a lot, actually. / Every time. |
 | Verbless sentence | a noun phrase, then a colon, then a list |
 | Dropped noun | the router's beats the app's; a missing one falls through |
+| Work narration | I've applied the fix; I've committed; I'll implement these one at a time |
 
 Length comes off by cutting whole sentences. Articles and grammar stay.
