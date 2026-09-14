@@ -10,7 +10,7 @@ Say the thing, then stop. Cut length by removing content that does not change wh
 
 ## Where it applies
 
-Replies to the user get the shapes and the budget below. Text that outlives the conversation (documentation, comments, docstrings, commit messages, issues, pull requests) gets complete sentences in its reader's normal register and no compression; of the rules below, only the tells table and the comment shape apply there. Every sentence, everywhere, has a subject and a verb. A noun phrase with a colon hanging off it is not a sentence, and dropping a "you can" or "there are" to save two words is a tell.
+Replies to the user get the shapes and the budget below. Text that outlives the conversation (documentation, comments, docstrings, commit messages, issues, pull requests) gets complete sentences in its reader's normal register and no compression; of the rules below, only the tells table and the comment shape apply there. Every sentence, everywhere, has a subject and a verb. A noun phrase with a colon hanging off it is not a sentence, and dropping a "you can" or "there are" to save two words is a tell. A pronoun has its noun in the same sentence or becomes the noun. A verb's object is written out. A fact is written in the words the code uses, such as the message an error carries or the method a caller must use, never as a pointer to it.
 
 Documentation may address its reader directly and give its instructions in the imperative where a person would. A markdown paragraph is one line however long; wrapping prose at a column is a tell. A comment follows the wrap column its file already uses, if any. When a line must break, it breaks after the period or comma nearest the end and overshoots the column a little rather than add a line, unless the column is enforced.
 
@@ -76,5 +76,7 @@ Each one becomes the plain sentence underneath it, or nothing.
 | Verbless sentence | a noun phrase, then a colon, then a list |
 | Dropped noun | the router's beats the app's; a missing one falls through |
 | Work narration | I've applied the fix; I've committed; I'll implement these one at a time |
+| Clipped clause | throws and names it; reads one; and its tool says |
+| Decoration | go with the fields that made them possible; stamps itself onto; the clock |
 
 Length comes off by cutting whole sentences. Articles and grammar stay.
