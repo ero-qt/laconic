@@ -76,6 +76,22 @@ The list that follows is unchanged. The sentence in front of it gets its verb ba
 
 "The router's", "the app's", and "a missing one" all stood for "handler" and left the reader to fetch it from the first sentence. Each sentence now names the handler it means, and the first sentence says what the code returns.
 
+## Clipped clause
+
+> `ToDeclaration()` on a delegate symbol throws and names it.
+
+> `ToDeclaration()` throws on a delegate symbol, and the error message says to call `ToDelegateDeclaration()` instead.
+
+"It" pointed at a fact that was never written. The fact is now on the page in the words the code uses.
+
+## Decoration
+
+> The throws for a type with a return type go with the fields that made them possible.
+
+> The check that threw on a type with a return type is removed along with `ReturnType` and `RefKind`.
+
+"Go with the fields that made them possible" was picked for sound. The plain verb is "removed", and the fields are named.
+
 ## Keep
 
 - A genuine agreement, stated as a fact with its own subject.
